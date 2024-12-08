@@ -4,7 +4,7 @@ By hemming in the colour space of the Red, Green \& Blue bands as little of the 
 \subsection{Suggest how to improve the result.}
 By switching from RGB to HSV we could pick out a single colour rather than a span of colour combinations.
 \subsection{How do you create the green filter in this color space? Which parameter was the most important?}
-Due to there being few items in the scene with similar hues and the bag being fairly uniformly coloured it can easily be cut out and in the HSV view.
+Due to there being few items in the scene with similar hues and the bag being fairly uniformly coloured it can easily be cut out in the HSV view.
 \subsection{How does your filtered image compare to the previous RGB-based result?}
 Massivly improved and most white specks are removed leaving only the bag.
 \subsection{How did you do this?}
@@ -16,12 +16,16 @@ We spun the RGB values clockwise within the mask which contained the bag. Turnin
 Yes.
 \subsection{Which one is quicker and why? Use tic, toc. Note: As the image is small loop the operation to get a better time estimation}
 A took 0.556078s for 1000 iterations
+
 B took 0.190311s for 1000 iterations
 \section{Calibration and measurement}
 \subsection{What was the result of your 4 depth estimations? What do you conclude from these with respect to measurement and distortion?}
 Disrtorted Pen1 distance was estimated to be 203,0067mm away
+
 Disrtorted Pen2 distance was estimated to be 197,5683mm away
+
 Undisrtorted Pen1 distance was estimated to be 201,4475mm away
+
 Undisrtorted Pen2 distance was estimated to be 202,2000mm away
 
 Human error of picking the pixels are a way larger factor than the undistortion function corrects. The two undistorted distances are closer to eachother and can be assumed to be more accurate. Visually the undistorted images look subjectivly better around the center of the image.
