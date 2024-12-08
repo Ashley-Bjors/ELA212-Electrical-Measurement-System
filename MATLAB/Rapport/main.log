@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.29)  8 DEC 2024 12:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.29)  8 DEC 2024 12:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -514,7 +514,7 @@ Package hyperref Info: Link coloring ON on input line 60.
 
 LaTeX Font Info:    Calculating math sizes for size <11> on input line 65.
  (Block1.tex
-<./bluebag.jpg, id=55, 1503.6175pt x 1089.06876pt>
+<./bluebag.jpg, id=51, 1503.6175pt x 1089.06876pt>
 File: ./bluebag.jpg Graphic file (type jpg)
 <use ./bluebag.jpg>
 Package pdftex.def Info: ./bluebag.jpg  used on input line 13.
@@ -537,31 +537,21 @@ Before submitting the final camera ready copy, remember to:
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-09>
  ***********
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: B10190C65671C0399B46D9D6570B654C;5432
-(rerunfilecheck)             After:  E941E9F9F6581488635C82E88CA85AB4;5370.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: E941E9F9F6581488635C82E88CA85AB4;5370.
  ) 
 Here is how much of TeX's memory you used:
- 14975 strings out of 474586
- 247903 string characters out of 5762069
+ 14973 strings out of 474586
+ 247883 string characters out of 5762069
  1933558 words of memory out of 5000000
- 36946 multiletter control sequences out of 15000+600000
+ 36945 multiletter control sequences out of 15000+600000
  661930 words of font info for 139 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,79p,1187b,511s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{section.4} has been referenced but does not exist, replaced by a fixed one
-
 <C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (2 pages, 336233 bytes).
+Output written on main.pdf (2 pages, 335698 bytes).
 PDF statistics:
- 88 PDF objects out of 1000 (max. 8388607)
- 16 named destinations out of 1000 (max. 500000)
- 110 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 84 PDF objects out of 1000 (max. 8388607)
+ 15 named destinations out of 1000 (max. 500000)
+ 102 words of extra memory for PDF output out of 10000 (max. 10000000)
 
