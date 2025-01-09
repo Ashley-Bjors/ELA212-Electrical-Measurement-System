@@ -1,0 +1,25 @@
+\section[short]{Bitwise operations}
+
+\subsection[short]{What is the value of the 'result' variable at each occasion it is assigned a value?}
+
+\begin{center}
+    \begin{tabular}{ |c|c|c|c| } 
+        \hline
+        Operator &  op1 & op2 & result\\
+        \hline
+        AND1 & 0000 0001 & 0000 0011 & 0000 0001\\
+        AND2 & 0000 0011 & 0000 0111 & 0000 0011\\
+        OR & 0000 0001 & 0000 0011 & 0000 0011\\
+        XOR & 0000 0001 & 0000 0011 & 0000 0010\\
+        NOT & 0000 0001 & NaN & 1111 1110\\
+        R SHIFT & 0000 0010 & NaN & 0000 0001\\
+        R SHIFT x4 & 1000 0000 & NaN & 0000 1000\\
+        L SHIFT & 0000 0001 & NaN & 0000 0010\\
+        L SHIFT x7 & 0000 0001 & NaN & 1000 0000\\
+        Logic AND & 0000 0001 & 0000 0011 & TRUE\\
+        Logic OR & 0000 0001 & 0000 0011 & TRUE\\
+        \hline
+    \end{tabular}
+\end{center}
+\subsection[short]{What happens at the end of the program?}
+A while(TRUE) loop is inserted to keep the program from returning from main since there is no OS to handle a return. 
