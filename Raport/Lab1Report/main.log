@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.29)  12 JAN 2025 15:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.29)  12 JAN 2025 16:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -538,21 +538,24 @@ Package rerunfilecheck Warning: File `main.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 1B61985A22A984B6A8739A5A458E6D08;424
-(rerunfilecheck)             After:  DAA717600B937C875B15576E14C19743;510.
+(rerunfilecheck)             Before: DAA717600B937C875B15576E14C19743;510
+(rerunfilecheck)             After:  6AADB11C1512D9410BCB8A4677D51008;414.
  ) 
 Here is how much of TeX's memory you used:
- 14970 strings out of 474586
- 248327 string characters out of 5762069
- 1935558 words of memory out of 5000000
- 36939 multiletter control sequences out of 15000+600000
- 660794 words of font info for 138 fonts, out of 8000000 for 9000
+ 14975 strings out of 474586
+ 248410 string characters out of 5762069
+ 1936558 words of memory out of 5000000
+ 36942 multiletter control sequences out of 15000+600000
+ 662979 words of font info for 140 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,386b,509s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
-Output written on main.pdf (1 page, 34568 bytes).
+ 75i,11n,79p,439b,509s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{section.5} has been referenced but does not exist, replaced by a fixed one
+
+<C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
+Output written on main.pdf (1 page, 42704 bytes).
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
+ 50 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
