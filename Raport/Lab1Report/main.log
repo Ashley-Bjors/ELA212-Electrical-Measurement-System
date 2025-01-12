@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.29)  12 JAN 2025 16:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.29)  12 JAN 2025 18:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -513,7 +513,13 @@ Package hyperref Info: Link coloring ON on input line 60.
 \openout3 = `main.out'.
 
 LaTeX Font Info:    Calculating math sizes for size <11> on input line 68.
- (Abstract.tex) (Introduction.tex) (Method.tex) (Result.tex) (Discussion.tex)
+ (Abstract.tex) (Introduction.tex) (Method.tex
+<circuit.png, id=19, 742.775pt x 461.725pt>
+File: circuit.png Graphic file (type png)
+<use circuit.png>
+Package pdftex.def Info: circuit.png  used on input line 19.
+(pdftex.def)             Requested size: 445.66843pt x 277.03714pt.
+) (Result.tex) (Discussion.tex [1{C:/Users/Ashley Björs/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/MiKTeX/fonts/enc/dvips/base/8r.enc} <./circuit.png>])
 No file main.bbl.
 
 ** Conference Paper **
@@ -526,36 +532,30 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[1{C:/Users/Ashley Björs/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/MiKTeX/fonts/enc/dvips/base/8r.enc}] (main.aux)
+[2] (main.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-09>
  ***********
 
 
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: DAA717600B937C875B15576E14C19743;510
-(rerunfilecheck)             After:  6AADB11C1512D9410BCB8A4677D51008;414.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 6AADB11C1512D9410BCB8A4677D51008;414.
  ) 
 Here is how much of TeX's memory you used:
- 14975 strings out of 474586
- 248410 string characters out of 5762069
- 1936558 words of memory out of 5000000
- 36942 multiletter control sequences out of 15000+600000
+ 14989 strings out of 474586
+ 248650 string characters out of 5762069
+ 1934558 words of memory out of 5000000
+ 36955 multiletter control sequences out of 15000+600000
  662979 words of font info for 140 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,439b,509s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{section.5} has been referenced but does not exist, replaced by a fixed one
-
+ 75i,11n,79p,439b,511s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
-Output written on main.pdf (1 page, 42704 bytes).
+Output written on main.pdf (2 pages, 51255 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
- 7 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 52 PDF objects out of 1000 (max. 8388607)
+ 8 named destinations out of 1000 (max. 500000)
+ 38 words of extra memory for PDF output out of 10000 (max. 10000000)
 
