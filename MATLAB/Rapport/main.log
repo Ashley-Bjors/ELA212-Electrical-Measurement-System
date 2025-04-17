@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.29)  8 DEC 2024 12:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.29)  17 APR 2025 13:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -517,9 +517,31 @@ LaTeX Font Info:    Calculating math sizes for size <11> on input line 65.
 <./bluebag.jpg, id=51, 1503.6175pt x 1089.06876pt>
 File: ./bluebag.jpg Graphic file (type jpg)
 <use ./bluebag.jpg>
-Package pdftex.def Info: ./bluebag.jpg  used on input line 13.
+Package pdftex.def Info: ./bluebag.jpg  used on input line 17.
 (pdftex.def)             Requested size: 516.0pt x 373.73499pt.
- [1{C:/Users/Ashley Björs/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/MiKTeX/fonts/enc/dvips/base/8r.enc}])
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./Conv((Cs)g).jpg, id=52, 1348.03625pt x 972.63374pt>
+File: ./Conv((Cs)g).jpg Graphic file (type jpg)
+<use ./Conv((Cs)g).jpg>
+Package pdftex.def Info: ./Conv((Cs)g).jpg  used on input line 25.
+(pdftex.def)             Requested size: 258.0pt x 186.13803pt.
+<./Conv(C(sg)).jpg, id=53, 1348.03625pt x 972.63374pt>
+File: ./Conv(C(sg)).jpg Graphic file (type jpg)
+<use ./Conv(C(sg)).jpg>
+Package pdftex.def Info: ./Conv(C(sg)).jpg  used on input line 26.
+(pdftex.def)             Requested size: 258.0pt x 186.13803pt.
+
+Overfull \hbox (2.29996pt too wide) in paragraph at lines 25--27
+[][] [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+)
 No file main.bbl.
 
 ** Conference Paper **
@@ -532,7 +554,7 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[2 <./bluebag.jpg>] (main.aux)
+[1{C:/Users/Ashley Björs/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/MiKTeX/fonts/enc/dvips/base/8r.enc}] [2 <./bluebag.jpg> <./Conv((Cs)g).jpg> <./Conv(C(sg)).jpg>] (main.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-09>
@@ -541,17 +563,17 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: E941E9F9F6581488635C82E88CA85AB4;5370.
  ) 
 Here is how much of TeX's memory you used:
- 14973 strings out of 474586
- 247883 string characters out of 5762069
- 1933558 words of memory out of 5000000
- 36945 multiletter control sequences out of 15000+600000
+ 14993 strings out of 474586
+ 248315 string characters out of 5762069
+ 1941558 words of memory out of 5000000
+ 36963 multiletter control sequences out of 15000+600000
  661930 words of font info for 139 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,1187b,511s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,1187b,510s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (2 pages, 335698 bytes).
+Output written on main.pdf (2 pages, 968389 bytes).
 PDF statistics:
- 84 PDF objects out of 1000 (max. 8388607)
- 15 named destinations out of 1000 (max. 500000)
- 102 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 88 PDF objects out of 1000 (max. 8388607)
+ 17 named destinations out of 1000 (max. 500000)
+ 112 words of extra memory for PDF output out of 10000 (max. 10000000)
 
